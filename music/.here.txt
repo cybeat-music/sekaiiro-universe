@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "Mafumafu 6th Album “Sekaiiro Universe”",
+  "author": "Mafumafu",
+  "disc": "2",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}
